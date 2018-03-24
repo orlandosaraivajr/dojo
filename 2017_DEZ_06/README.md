@@ -4,8 +4,8 @@
 
 Realizado na Unesp Rio Claro em 06 de dezembro de 2017.
 
-	Problema escolhido: Cheque por Extenso
-	Tempo para cada piloto: 6 minutos
+	Problema escolhido: FizzBuzz
+	Tempo para cada piloto: 7 minutos
 
 
 ### FizzBuzz
