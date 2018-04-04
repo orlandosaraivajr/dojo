@@ -26,3 +26,4 @@ Realizar braimstorm, enfatizando o que foi positivo e o que pode ser aprimorado.
 - [13 de novembro de 2017](2017_NOV_13/README.md)
 - [06 de dezembro de 2017](2017_DEZ_06/README.md)
 - [07 de março de 2018](2018_MAR_07/README.md)
+- [04 de abril de 2018](2018_ABR_04/README.md)
