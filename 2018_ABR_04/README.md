@@ -8,25 +8,24 @@
 	Tempo total de codificação: 1 hora
 
 
-### Validador de CPF
+### Menor elemento de uma lista
 
-Muitas aplicações trabalham com CPF como forma de identificar o
-usuário. Desenvolva um programa que dado um número, retorne
-este número no formato de CPF. Também desenvolva o modo
-reverso: dado um CPF, retorne os números.
+Uma lista é um conjunto ordenado de valores, onde cada valor é identificado por um índice. Os valores que compõem uma lista são chamados elementos.
+Crie uma função que receba uma lista e retorne o menor elemento da lista .
+Esta função deve funcionar com parâmetros tipo tuplas e listas.
 
-Não se preocupe com dígito verificador, apenas com a quantidade
-de números
 
 Exemplo:
 
-317.101.058-44 -> 31710105844
+[3, 4, 5, 8, 1, -2]  -> -2
 
-31710105844 -> 317.101.058-44
+[3, 4, 5, 1, 8]  -> 1
 
-317.101.058 -> valor nulo, quantidade de números insuficiente.
+[3, 4, 5, 8, 1, -2, ‘oi mundo’]  -> None
 
-317101058 → valor nulo, quantidade de números insuficiente.
+(3, 4, 5, 8, 1, -2)  -> -2						Obs.: não é uma lista, é uma tupla
+
+['be', 'ab', 'ce' , 'ba']  -> ab
 
 	Fonte: Python Rio Claro
 
