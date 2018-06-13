@@ -15,7 +15,7 @@ They are there have fun and to engage in  Deliberate Practice in order to improv
 - TDD ( Test Driven Development)
 - Baby steps ( passos de bebê)
 
-### Avaliação pos mortem
+### Avaliação post-mortem
 
 Realizar braimstorm, enfatizando o que foi positivo e o que pode ser aprimorado.
 
@@ -27,3 +27,4 @@ Realizar braimstorm, enfatizando o que foi positivo e o que pode ser aprimorado.
 - [06 de dezembro de 2017](2017_DEZ_06/README.md)
 - [07 de março de 2018](2018_MAR_07/README.md)
 - [04 de abril de 2018](2018_ABR_04/README.md)
+- [02 de maio de 2018](2018_MAI_02/README.md)
