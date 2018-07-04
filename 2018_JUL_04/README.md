@@ -1,7 +1,7 @@
 # Coding DOJO
 
 
-## Coding Dojo realizado em 13 de junho de 2018.
+## Coding Dojo realizado em 04 de julho de 2018.
 
 	Problema escolhido: Produto Escalar de Vetores
 
