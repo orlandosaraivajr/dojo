@@ -3,7 +3,7 @@
 
 ## Coding Dojo realizado em 07 de julho de 2018 na FATEC Araras.
 
-	Problema escolhido: Produto Escalar de Vetores
+	Problema escolhido: Intervalos
 
 	Piloto: 7 minutos
 
