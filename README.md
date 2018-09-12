@@ -31,3 +31,4 @@ Realizar braimstorm, enfatizando o que foi positivo e o que pode ser aprimorado.
 - [13 de junho de 2018](2018_JUN_13/README.md)
 - [04 de julho de 2018](2018_JUL_04/README.md)
 - [08 de agosto de 2018](2018_AGO_08/README.md)
+- [12 de setembro de 2018](2018_SET_12/README.md)
