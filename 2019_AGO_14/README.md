@@ -31,9 +31,12 @@ Exemplos:
 
 
 ## Pontos Fortes
-- 
+- Troca de experiências
+- Integração entre os participantes
+- uso de guia de estilos e ferramenta Flake8
+- Tempo de cinco minutos adequado
 
 
 ## Pontos de melhorias
+- Participação de TODOS. Melhorar este aspecto.
 
-- 
